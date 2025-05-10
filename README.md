@@ -101,5 +101,5 @@ lungNoduleDetectionGUI
 
 ## 📄 License
 
-This project is developed for academic use and research. Feel free to modify and improve.
+This project is licensed under the **MIT License** – free to use and modify.
 
