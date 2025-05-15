@@ -3,6 +3,9 @@
 
 A MATLAB-based GUI tool for **detecting lung nodules** in CT scan images using classical image processing techniques. This project serves as a diagnostic aid for early detection of lung cancer by identifying and classifying nodules based on size, with visual output and risk assessment to support medical professionals.
 
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 ---
 
 ## 📌 Project Details
